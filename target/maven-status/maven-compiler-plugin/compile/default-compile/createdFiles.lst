@@ -1,0 +1,6 @@
+com\example\demo\model\Book.class
+com\example\demo\repository\SimpleBookRepository.class
+com\example\demo\repository\BookRepository.class
+com\example\demo\SpringCachingApplication.class
+com\example\demo\AppRunner.class
+com\example\demo\ServletInitializer.class
